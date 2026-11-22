@@ -1,0 +1,31 @@
+# Model weights and generated experiment outputs
+/pretrained/
+/out_checkpoint/
+/out_log/
+/annotations/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.log
+nohup.out
+
+# Local datasets
+/data/
+/datasets/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/.venv/
+/venv/
+/.env
+/.env.*
+
+# Local tool state
+/.agents/
+/.aws/
+/.codex/
