@@ -29,3 +29,6 @@ __pycache__/
 /.agents/
 /.aws/
 /.codex/
+
+# FIMA-Q
+/FIMA-Q-main/
